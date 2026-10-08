@@ -1,7 +1,6 @@
 import express from "express";
 import bookRoutes from "./routes/bookRoutes.js";
 
-// create express app
 const app = express();
 
 /* Routes implementation */
